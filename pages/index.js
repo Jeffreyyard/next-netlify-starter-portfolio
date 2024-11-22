@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome!" />
         <p className="description">
-          Back to start or Do it again <code>pages/index.js</code>
+          Back to start or Do it again <code><a href="www.yard.studio">Yard Studio & Past Projects</a></code>
         </p>
       </main>
 
