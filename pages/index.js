@@ -13,6 +13,18 @@ export default function Home() {
       <main>
         <Header title="Welcome!" />
         <p className="description">
+          Recent Work
+        </p>
+        <p className="description">
+          Photography
+        </p>
+        <p className="description">
+          PaperMaking, Basketweaving, Tinkering
+        </p>
+        <p className="description">
+          Painting, Surface Work
+        </p>
+        <p className="description">
           Back to start or Do it again <code><a href="https://yard.studio/">Yard Studio & Past Projects</a></code>
         </p>
       </main>
