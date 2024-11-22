@@ -28,7 +28,7 @@ export default function Home() {
           Back to start or Do it again <code><a href="https://yard.studio/">Yard Studio & Past Projects</a></code>
         </p>
         <p className="description">
-          Past past past work, from the well <code><img src='../img/back21-01.jpg' width="20px" height="20px"></img></code>
+          Past past past work, from the well <code><img src='img/paper1.jpg' width="20" height="20"></img></code>
         </p>
       </main>
 
