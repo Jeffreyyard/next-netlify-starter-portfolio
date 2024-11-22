@@ -34,3 +34,6 @@ code {
   justify-content: center;
   align-items: center;
 }
+a {
+  color: hotpink;
+}
