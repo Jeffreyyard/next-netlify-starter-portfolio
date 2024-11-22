@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -13,6 +14,9 @@ export default function Home() {
       <main>
         
         <Header title="Welcome!" />
+        <image
+          src='img/gallery-images/back21-01.jpg'>
+        </image>
         <p className="description">
           Recent Work
         </p>
@@ -29,7 +33,7 @@ export default function Home() {
           Back to start or Do it again <code><a href="https://yard.studio/">Yard Studio & Past Projects</a></code>
         </p>
         <p className="description">
-          Past past past work, from the well <code><image src='./img/paper1.jpg' width="20" height="20"></image></code>
+          Past past past work, from the well <code><image src='./img/gallery-images/paper1.jpg' width="20" height="20"></image></code>
         </p>
       </main>
 
