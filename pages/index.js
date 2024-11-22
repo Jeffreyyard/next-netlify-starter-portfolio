@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+        
         <Header title="Welcome!" />
         <p className="description">
           Recent Work
@@ -28,7 +29,7 @@ export default function Home() {
           Back to start or Do it again <code><a href="https://yard.studio/">Yard Studio & Past Projects</a></code>
         </p>
         <p className="description">
-          Past past past work, from the well <code><img src='img/paper1.jpg' width="20" height="20"></img></code>
+          Past past past work, from the well <code><image src='./img/paper1.jpg' width="20" height="20"></image></code>
         </p>
       </main>
 
